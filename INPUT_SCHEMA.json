@@ -1,0 +1,14 @@
+{
+  "title": "Input schema for the happyCow actor.",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "url": {
+      "title": "URL",
+      "type": "string",
+      "description": "Enter url to scrape",
+      "editor": "textfield"
+    }
+  },
+  "required": []
+}
